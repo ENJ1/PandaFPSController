@@ -1,5 +1,5 @@
 # PandaFPS
-A fps type game made in Panda3D
+An FPS controller made in Panda3D
 
 # System Requirements
 A Windows PC (XP+)
@@ -16,4 +16,8 @@ You need the latest version of Panda3D from the official website. The PIP versio
 This movement controller is most likely very buggy. Please report bugs in the issues tab.
 When the game starts you may notice significant frame drops/skips. This is COMPLETELY normal and is because of PyAutoGUI (which manages the cursor) callibrating its clock and active times with that of Panda3D.
 
-Thanks for using and subscribe to PANDA_REAPER on Youtube for more!
+# Buy me a coffee!
+Being a developer is hard work and requires a lot of time. Supporting me on Patreon really means a lot and will also allow me to release more updates/bugfixes to this project.
+
+# Thanks for using and subscribe to PANDA_REAPER on Youtube for more!
+
