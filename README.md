@@ -4,7 +4,7 @@ An FPS controller made in Panda3D
 # System Requirements
 A Windows PC (XP+)
 Panda3D installed properly (the PIP version)
-The models (will be avalible soon via mega.nz)
+Linux or MacOS are currrently NOT supported although this can be changed by changing the model path in the source code. If you don't know what you're doing, don't do it!
 
 # About
 This is a simple FPS controller made by a one-person development studio. Raycast bullets/advanced object collision will be added soon!
