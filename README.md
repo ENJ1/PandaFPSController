@@ -19,5 +19,4 @@ This movement controller has some problems with framerate drops (due to models w
 # Buy me a coffee!
 Being a developer is hard work and requires a lot of time. Supporting me on Patreon really means a lot and will also allow me to release more updates/bugfixes to this project.
 
-# Thanks for using and subscribe to PANDA_REAPER on Youtube for more!
 
